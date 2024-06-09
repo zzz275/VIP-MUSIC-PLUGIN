@@ -269,7 +269,7 @@ async def restart_(_, message):
     os.system(f"kill -9 {os.getpid()} && bash start")
 
 
-__MODULE__ = "Maintenance and Update"
+__MODULE__ = "Update"
 __HELP__ = """
 - `/maintenance enable`: Enable maintenance mode.
 - `/maintenance disable`: Disable maintenance mode.
