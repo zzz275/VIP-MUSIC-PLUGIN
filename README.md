@@ -1,2 +1,2 @@
 # VIP-MUSIC-PLUGIN
-All Features Of VIP-MUSIC In This Repo.
+## All Extra Plugins or features of [VIP-MUSIC](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC)
