@@ -13,7 +13,7 @@
 <a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-MUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 
-$### 🖇 VPS Deployment
+### 🖇 VPS Deployment
 - Get your [Necessary Variables](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/master/sample.env)
 - clone repo : `git clone [VIP-MUSIC](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC) && cd VIP-MUSIC`
 - Setup by : `bash setup`
